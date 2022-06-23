@@ -13,18 +13,18 @@ global.APIs = {
 	zenz: 'https://zenzapi.xyz', 
 }
 global.APIKeys = {
-	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
+	'https://zenzapi.xyz': 'sanzychan01', //Kalau habis beli sendiri
 }
 
 //other
-global.owner = ['94715166712'] 
-global.pemilik = ['94715166712'] //pemilik nomor
-global.premium = ['94715166712'] //premium number
-global.pengguna = 'Nima' //pengguna
-global.botnma = '𝐋𝐨𝐥𝐢 𝐁𝐨𝐭' //botnama,botname
-global.ownernma = 'nima' //ownernama,ownername
-global.packname = '© ɴɪᴍᴀ ᴇᴅɪᴛɪᴏɴ' // packname
-global.author = 'ɴɪᴍᴀ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
+global.owner = ['923336681780'] 
+global.pemilik = ['923336681780'] //pemilik nomor
+global.premium = ['923336681780'] //premium number
+global.pengguna = 'Zit' //pengguna
+global.botnma = 'King Zit' //botnama,botname
+global.ownernma = 'King Zit' //ownernama,ownername
+global.packname = '© ZIT ᴇᴅɪᴛɪᴏɴ' // packname
+global.author = 'King Zit' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -57,15 +57,15 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: 10000 
 }
     global.rpg = {
-        darahawal: 100,
-        besiawal: 15,
-        goldawal: 10,
-        emeraldawal: 5,
-        umpanawal: 5,
-        potionawal: 1
+        darahawal: 10000,
+        besiawal: 10000,
+        goldawal: 10000,
+        emeraldawal: 10000,
+        umpanawal: 10000,
+        potionawal: 10000
      }    
 
 global.thumb = fs.readFileSync('./image/drips.jpg')
